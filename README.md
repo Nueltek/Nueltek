@@ -28,8 +28,8 @@ const nueltek = {
   
   currentlyDoing: [
     "Shipping production-grade backends",
-    "Exploring AI / LLM integrations",
-    "Learning React Native (slowly, stubbornly)",
+    "Exploring AI / LLM integrations & Reactnative",
+    "Learning AI Agent Developement (slowly, stubbornly)",
   ],
 
   openTo: ["Freelance contracts", "Full-time roles", "Interesting problems"],
@@ -139,8 +139,8 @@ Build forms. Collect responses. Get notified in real-time. No subscriptions. No 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rifolio.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://rifolio.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rifolio.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://nueltekglobalresources.com/projects.html)
+[![X](https://img.shields.io/badge/X-Available-6FDA44?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nueltek)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nueltekglobalresources.com)
 
 </div>
