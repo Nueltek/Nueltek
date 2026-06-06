@@ -51,6 +51,7 @@ const nueltek = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GO](https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=bull&logoColor=white)
@@ -91,7 +92,7 @@ A platform for developers and creatives to build portfolio sites without the usu
 </td>
 <td width="50%">
 
-### 📋 Yorkyy
+### 📋 [Yorkyy](https://yorkyy.com)
 **Free Form Builder · Real-time Notifications**
 
 Build forms. Collect responses. Get notified in real-time. No subscriptions. No gotchas.
@@ -104,22 +105,6 @@ Build forms. Collect responses. Get notified in real-time. No subscriptions. No 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nueltek&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nueltek&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nueltek&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
@@ -139,8 +124,8 @@ Build forms. Collect responses. Get notified in real-time. No subscriptions. No 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rifolio.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://nueltekglobalresources.com/projects.html)
-[![X](https://img.shields.io/badge/X-Available-6FDA44?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nueltek)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Nueltek-000000?style=for-the-badge&logo=safari&logoColor=white)](https://nueltekglobalresources.com/projects.html)
+[![X (formerly Twitter)](https://img.shields.io/badge/twitter-Available-6FDA44?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nueltek)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nueltekglobalresources.com)
 
 </div>
